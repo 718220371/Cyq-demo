@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZmRAOjo0zpZrW6oXhq0eowzUWsbxsb3B3OzsW0OeKgkhhpYf/1AdRqBy9q37Yy0bG6ueE8fNJKtczuz+nCwLA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\CSharp\\FoundAtion\\FoundAtion\\MyDelegate\\MyDelegate.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nrm.recloud.com.cn:8081/repository/nuget-hosted/”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

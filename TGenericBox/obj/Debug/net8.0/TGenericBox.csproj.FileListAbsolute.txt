@@ -1,0 +1,14 @@
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\obj\Debug\net8.0\TGenericBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\obj\Debug\net8.0\TGenericBox.AssemblyInfoInputs.cache
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\obj\Debug\net8.0\TGenericBox.AssemblyInfo.cs
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\obj\Debug\net8.0\TGenericBox.csproj.CoreCompileInputs.cache
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\bin\Debug\net8.0\TGenericBox.exe
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\bin\Debug\net8.0\TGenericBox.deps.json
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\bin\Debug\net8.0\TGenericBox.runtimeconfig.json
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\bin\Debug\net8.0\TGenericBox.dll
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\bin\Debug\net8.0\TGenericBox.pdb
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\obj\Debug\net8.0\TGenericBox.dll
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\obj\Debug\net8.0\refint\TGenericBox.dll
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\obj\Debug\net8.0\TGenericBox.pdb
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\obj\Debug\net8.0\TGenericBox.genruntimeconfig.cache
+D:\Project\CSharp\FoundAtion\FoundAtion\TGenericBox\obj\Debug\net8.0\ref\TGenericBox.dll
